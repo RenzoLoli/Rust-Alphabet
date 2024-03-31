@@ -1,0 +1,9 @@
+{
+  "procMacro": {
+    "ignored": {
+      "leptos_macro": [
+        "server"
+      ]
+    }
+  }
+}
